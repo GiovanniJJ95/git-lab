@@ -8,12 +8,11 @@ This is a team lab for 3 to 4 people. You will run a real team workflow on a uni
 
 ## Team members
 
-| Name | GitHub username |
-|------|-----------------|
-| | |
-| | |
-| | |
-| | |
+| Name             | GitHub username |
+|------------------|-----------------|
+|Gabriel Sanz      | 8BitLeaf        |
+|Enrique de Castro | Migueldcp       |
+|Jorge Cristobal   | GiovanniJJ95    |
 
 ## Lab rules
 
