@@ -6,5 +6,6 @@ public class Food {
         System.out.println("Chicken Sandwich - $8.50");
 	System.out.println("Lasagna - $6.99");
 
+	System.out.println("Pizza - $8.99");
     }
 }
