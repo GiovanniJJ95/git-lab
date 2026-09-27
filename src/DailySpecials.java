@@ -3,5 +3,6 @@ public class DailySpecials {
         // Daily specials change every day!
         System.out.println("Monday: Pasta Special - $9.99");
         System.out.println("Tuesday: Croquetas de Jamón - $1.99");
+      	System.out.println("Tuesday: Tacos - $8.99");
     }
 }
